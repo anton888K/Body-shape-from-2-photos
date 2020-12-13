@@ -6,6 +6,7 @@ If you use this code, don't forget to respect their licence please.
 Enjoy !
 
 ------ Required libraries ------
+Download the pre-trained model u2net.pth (176.3 MB) (https://drive.google.com/file/d/1ao1ovG1Qtx4b7EoskHXmi2E9rp5CHLcZ/view)or u2netp.pth (4.7 MB)(https://drive.google.com/file/d/1rbSTGKAE-MTxBYHd-51l2hMOQPT_7EPy/view) and put it into the dirctory './saved_models/u2net/' and './saved_models/u2netp/'
 
 Python 3.6 
 numpy 1.15.2 
